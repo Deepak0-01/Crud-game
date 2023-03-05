@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import Dexie from "dexie";
 import { useLiveQuery } from "dexie-react-hooks";
 import Modal from "./Modal";

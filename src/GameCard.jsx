@@ -1,5 +1,4 @@
 import { useState } from "react";
-import { db } from "./Game";
 import Modal from "./Modal";
 import "./GameCard.css";
 
