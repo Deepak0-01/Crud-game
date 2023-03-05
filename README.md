@@ -14,6 +14,16 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+### Login Page
+![image](https://user-images.githubusercontent.com/53151547/222985456-2fc7783f-3962-4638-bc31-fecafdd3c70c.png)
+
+### Landing Page
+![image](https://user-images.githubusercontent.com/53151547/222985503-096124bc-0d69-4658-b46f-caee568bf301.png)
+
+### Homepage
+
+![image](https://user-images.githubusercontent.com/53151547/222985569-c03345e2-ee52-4753-9aed-dd01ca7c873a.png)
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
@@ -68,3 +78,16 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Login Page
+![image](https://user-images.githubusercontent.com/53151547/222985456-2fc7783f-3962-4638-bc31-fecafdd3c70c.png)
+
+### Landing Page
+![image](https://user-images.githubusercontent.com/53151547/222985503-096124bc-0d69-4658-b46f-caee568bf301.png)
+
+### Homepage
+
+![image](https://user-images.githubusercontent.com/53151547/222985569-c03345e2-ee52-4753-9aed-dd01ca7c873a.png)
+
+
+
