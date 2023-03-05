@@ -76,12 +76,12 @@ transition:ease-in-out 0.1s;
        }
 
        .gamecard_prop{
-        max-width: 8rem;
+        min-width: 7rem;
         margin-bottom:0.5rem;
     }
 
     .gamecard_value{
-        max-width: 8rem;
+        min-width: 7rem;
     }
 
     .gamecard_buttons{
